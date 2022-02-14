@@ -7,10 +7,11 @@
 - 我会在业余时间，对感兴趣的DL算法进行复现，并第一时间更新维护该Repo。
 
 ## 关键依赖项
-- transformers 
+
+- transformers
   - `pip install transformers`
-- torch  1.10.1 
-- torchvision                   0.11.2 
+- torch  1.10.1
+- torchvision                   0.11.2
 - torchtext                     0.11.1
 
 ## I. Seq2Seq(TO-DO)
@@ -46,7 +47,13 @@
 
 - 基于 `ViT-B_16`预训练模型 + VIT Model
 
-## IV. Swin Transformer(TO-DO)
+## IV. Swin Transformer
+
+Swin Transformer 被视为CNN的理想替代方案，其在设计时也融合了很多CNN的思想。
+
+- Swin Transformer 结合CNN思想，引入层次化构建方式构建层次化的Transformer，使得SwinT可以做层级式的特征提取（方便下游多尺度的检测、分割任务）。证明了Swin Transformer可以作为通用的视觉任务Backbone网络。
+
+[知乎: DLPlayGround之Swin-Transformer(v1)](https://zhuanlan.zhihu.com/p/467158838)
 
 ## V. Meta Learning Part(TO-DO)
 
