@@ -17,3 +17,23 @@ Swin Transformer相比于ViT做了下列改进：
 ### 细节介绍
 
 [知乎: DLPlayGround之Swin-Transformer(v1)](https://zhuanlan.zhihu.com/p/467158838)
+
+### Refs
+
+[灰墙：Transformer结构中获得相对位置信息的探究](https://zhuanlan.zhihu.com/p/100112141)
+
+[SOTA模型Swin Transformer是如何炼成的!](https://toutiao.io/posts/e0unlgm/preview)
+
+[陀飞轮：Swin Transformer对CNN的降维打击](https://zhuanlan.zhihu.com/p/360513527)
+
+[论文Swin Transformer Arxiv](https://arxiv.org/abs/2103.14030)
+
+[Microsoft官方Repo](https://github.com/microsoft/Swin-Transformer)
+
+[Swin Transformer论文精读【论文精读】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV13L4y1475U/?spm_id_from=autoNext)
+
+[zzzk：图解Swin Transformer](https://zhuanlan.zhihu.com/p/367111046)
+
+[https://github.com/WZMIAOMIAO/deep-learning-for-image-processing](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing)
+
+[Swin-Transformer网络结构详解_霹雳吧啦Wz-CSDN博客_swin transformer结构](https://blog.csdn.net/qq_37541097/article/details/121119988)
