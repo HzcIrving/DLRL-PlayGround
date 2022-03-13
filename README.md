@@ -1,10 +1,10 @@
-# DeepLearning_PlayGround
+# DL&RL_PlayGround
 
-# 😄DL游乐园
+# 😄DL&RL游乐园
 
 - The code repo contains multiple code reproduction processes of various SOTA deep learning algorithms.
-- 这个代码仓库包含了经典、热门、以及SOTA的DL算法的复现。
-- 我会在业余时间，对感兴趣的DL算法进行复现，并第一时间更新维护该Repo。
+- 这个代码仓库包含了经典、热门、以及SOTA的DL/RL算法的复现。
+- 我会在业余时间，对感兴趣的DL/RL算法进行复现，并第一时间更新维护该Repo。
 
 ## 关键依赖项
 
