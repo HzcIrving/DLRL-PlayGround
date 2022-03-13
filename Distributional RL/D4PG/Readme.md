@@ -1,6 +1,7 @@
 ## Distributed Distributional Determinisitic Policy Gradient
 
-[Barth-Maron, Gabriel, et al. &#34;Distributed distributional deterministic policy gradients.&#34; arXiv preprint arXiv:1804.08617 (2018).](https://link.zhihu.com/?target=https%3A//arxiv.org/pdf/1804.08617)
+[Barth-Maron, Gabriel, et al. &#34;Distributed distributional deterministic policy gradients.&#34; arXiv preprint arXiv:1804.08617 (2018).](https://link.zhihu.com/?target=https%3A//arxiv.org/pdf/1804.08617) 
+Ref Git Repo: https://github.com/schatty/d4pg-pytorch 
 
 ### D4PG伪代码
 
