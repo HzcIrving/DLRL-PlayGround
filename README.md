@@ -91,7 +91,7 @@ Batch-Constrained deep Q- Learning(BCQ)
 - Trains well offline
 - Fine-tunes quickly online
 - Does not need to estimate a behavior model.
-- 项目跳转链接🔗: AWAC
+- 项目跳转链接🔗: [AWAC](https://github.com/HzcIrving/DLRL-PlayGround/tree/main/Offline%20RL/AWAC)
 
 ## Distributional RL
 
