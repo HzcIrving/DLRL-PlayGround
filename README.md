@@ -73,9 +73,9 @@ DT将RL看成一个序列建模问题（Sequence Modeling Problem ），不用�
 
 - 项目跳转链接🔗: [DecisionTransformer_StepbyStep](https://github.com/HzcIrving/DecisionTransformer_StepbyStep)
 
-#### ③ BCQ 
+#### ③ BCQ
 
-Batch-Constrained deep Q- Learning(BCQ) 
+Batch-Constrained deep Q- Learning(BCQ)
 
 * 优化Value函数时候加入future uncertainty的衡量；
 * 加入了距离限制，通过state-conditioned generative model完成；
@@ -84,15 +84,24 @@ Batch-Constrained deep Q- Learning(BCQ)
 
 - 项目跳转链接🔗: [BCQ](https://github.com/HzcIrving/DLRL-PlayGround/tree/main/Offline%20RL/BCQ)
 
-## Distributional RL 
+#### ④ AWAC 
+
+关键点：
+
+- Trains well offline
+- Fine-tunes quickly online
+- Does not need to estimate a behavior model.
+- 项目跳转链接🔗: AWAC
+
+## Distributional RL
 
 #### ① C51
 
 - 项目跳转链接🔗: [C51](https://github.com/HzcIrving/DLRL-PlayGround/tree/main/Distributional%20RL/C51)
 
-#### ② D4PG 
+#### ② D4PG
 
-Distributed Distributional Determinisitic Policy Gradient (D4PG) 
+Distributed Distributional Determinisitic Policy Gradient (D4PG)
 
 D4PG将经验收集的Actor和策略学习的Learner分开：
 
